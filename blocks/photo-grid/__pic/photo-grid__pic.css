@@ -1,0 +1,4 @@
+.photo-grid__pic {
+  object-fit: contain;
+  max-height: 213px;
+}
