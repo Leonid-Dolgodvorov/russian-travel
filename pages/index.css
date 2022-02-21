@@ -32,4 +32,14 @@
 @import url(../blocks/place/__image/place__image.css);
 @import url(../blocks/paragraphes/paragraphes.css);
 @import url(../blocks/paragraphes/__paragraph/paragraphes__paragraph.css);
+@import url(../blocks/cover/cover.css);
+@import url(../blocks/textoverimage/textoverimage.css);
+@import url(../blocks/textoverimage/__title/textoverimage__title.css);
+@import url(../blocks/textoverimage/__subtitle/textoverimage__subtitle.css);
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/menu/menu.css);
+@import url(../blocks/menu/__link/menu__link.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);
+
+
 
