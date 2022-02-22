@@ -1,9 +1,5 @@
 .cover {
-  width: calc(100% - 2*48px);
   position: relative;
-  padding-bottom: 62.5%;
-  background-image: url(../../images/cover-trains.jpg);
-  background-position: center;
 }
 
 .cover:before {

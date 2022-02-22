@@ -1,9 +1,23 @@
 .lead__title {
-  width: calc(100% - 2*132px);
-  margin: 56px auto 0;
-  padding: 0;
   font-weight: 900;
   font-size: 96px;
   line-height: 100px;
   text-align: center;
+}
+
+@media screen and (max-width: 767px) {
+  .lead__title_wide_adaptive {
+    width: calc(100% - 2*16px);
+  }
+  .lead__title {
+    font-size: 60px;
+    line-height: 66px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .lead__title {
+    font-size: 40px;
+    line-height: 44px;
+  }
 }

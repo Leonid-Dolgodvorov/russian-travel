@@ -1,6 +1,21 @@
 .textoverimage__title {
-  max-width: 560px;
+  margin: 0 0 32px;
+  width: 560px;
   font-weight: 900;
   font-size: 72px;
   line-height: 76px;
+}
+
+@media screen and (max-width: 767px) {
+  .textoverimage__title {
+    font-size: 32px;
+    line-height: 35px;
+    margin-bottom: 16px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .textoverimage__title {
+    width: 250px;
+  }
 }

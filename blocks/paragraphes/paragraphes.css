@@ -1,4 +1,5 @@
 .paragraphes {
   display: block;
   width: 100%;
+  grid-area: paragraphes;
 }

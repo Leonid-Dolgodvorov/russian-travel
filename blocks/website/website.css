@@ -1,4 +1,5 @@
 .website {
   display: flex;
   flex-direction: column-reverse;
+  grid-area: website;
 }

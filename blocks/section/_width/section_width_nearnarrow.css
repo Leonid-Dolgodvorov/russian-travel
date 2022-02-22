@@ -1,21 +1,21 @@
-.section_width_narrow {
-  width: calc(100% - 2*148px);
+.section_width_nearnarrow {
+  width: calc(100% - 2*148px);;
 }
 
 @media screen and (max-width: 1279px) {
-  .section_width_narrow {
+  .section_width_nearnarrow {
     width: calc(100% - 2*48px);
   }
 }
 
 @media screen and (max-width: 1023px) {
-  .section_width_narrow {
+  .section_width_nearnarrow {
     width: calc(100% - 2*24px);
   }
 }
 
 @media screen and (max-width: 767px) {
-  .section_width_narrow {
-    width: 100%;
+  .section_width_nearnarrow {
+    width: calc(100% - 2*16px);
   }
 }
