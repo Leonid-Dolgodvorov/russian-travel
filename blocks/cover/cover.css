@@ -1,5 +1,6 @@
 .cover {
   position: relative;
+  display: flex;
 }
 
 .cover:before {
