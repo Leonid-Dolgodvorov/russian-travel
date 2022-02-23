@@ -1,5 +1,5 @@
 .section_width_nearnarrow {
-  width: calc(100% - 2*148px);;
+  width: calc(100% - 2*148px);
 }
 
 @media screen and (max-width: 1279px) {
