@@ -1,0 +1,9 @@
+.paragraphes__paragraph_wide_narrow {
+
+}
+
+@media screen and (max-width: 767px) {
+  .paragraphes__paragraph_wide_narrow {
+    max-width: 85%;
+  }
+}

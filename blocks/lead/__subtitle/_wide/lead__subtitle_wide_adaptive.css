@@ -1,12 +1,12 @@
 .lead__subtitle_wide_adaptive {
   width: calc(100% - 2*172px);
   margin: 32px auto 64px;
-  padding: 0;
 }
 
 @media screen and (max-width: 1279px) {
   .lead__subtitle_wide_adaptive {
     width: calc(100% - 2*144px);
+    margin: 32px auto 56px;
   }
 }
 

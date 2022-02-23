@@ -3,7 +3,7 @@
 **Описание проекта**  
 Практическая работа по созданию адаптивного сайта с информацией по туристическим местам России.
 
-[Ссылка на проект](https://github.com/Leonid-Dolgodvorov/russian-travel) 
+[Ссылка на проект](https://leonid-dolgodvorov.github.io/russian-travel/index.html) 
 
 **Что включает проект:**
 

@@ -5,10 +5,15 @@
   line-height: 18px;
   color: #fff;
   text-decoration: none;
+  transition: opacity 200ms ease-in-out;
 }
 
 .menu__link:last-of-type {
   margin: 0;
+}
+
+.menu__link:hover {
+  opacity: 0.8;
 }
 
 @media screen and (max-width: 767px) {

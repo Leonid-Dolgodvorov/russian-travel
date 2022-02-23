@@ -1,7 +1,15 @@
 .website__url-heading {
+  display: flex;
   font-weight: 400;
   font-size: 12px;
   line-height: 12px;
   letter-spacing: 2px;
   color: #AAAAAA;
+}
+
+@media screen and (max-width: 767px) {
+  .website__url-heading {
+    margin: 0;
+    padding-left: 16px;
+  }
 }
