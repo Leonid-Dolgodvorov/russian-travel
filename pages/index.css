@@ -44,7 +44,6 @@
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/page/__cover/page__cover.css);
 @import url(../blocks/section/_width/section_width_wide.css);
-@import url(../blocks/cover/__image/cover__image.css);
 @import url(../blocks/cover/__case/cover__case.css);
 @import url(../blocks/cover/__title/cover__title.css);
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);
