@@ -1,3 +1,10 @@
 .header__lang-link {
   text-align: center;
+  margin-left: 18px;
+  list-style-type: none;
+  transition: opacity 200ms ease-in-out;
+}
+
+.header__lang-link:hover {
+  opacity: 0.8;
 }

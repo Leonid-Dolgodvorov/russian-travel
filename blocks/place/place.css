@@ -27,7 +27,6 @@
     padding: 0 0 58px;
     grid-template-columns: 47.22% 48.89%;
     gap: 48px 3.89%;
-    grid-template-rows: minmax(min-content, max-content);
   }
 }
 
@@ -35,7 +34,6 @@
   .place {
     padding: 0 0 48px;
     grid-template-columns: 1fr;
-    grid-template-rows: minmax(min-content, max-content);
     grid-template-areas:
     "place__title"
     "website"
