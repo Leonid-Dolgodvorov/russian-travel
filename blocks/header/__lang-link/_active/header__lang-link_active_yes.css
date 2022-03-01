@@ -1,3 +1,5 @@
 .header__lang-link_active_yes {
+  text-decoration: none;
+  color: #fff;
   border-bottom: 1px solid #fff;
 }

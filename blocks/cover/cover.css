@@ -1,11 +1,13 @@
 .cover {
   position: relative;
   display: flex;
-  height: 740px;
+  min-height: 740px;
   justify-content: center;
   align-items: center;
   background-image: url(../../images/cover-trains.jpg);
   background-size: 100%;
+  text-decoration: none;
+  color: #fff;
 }
 
 .cover:before {
@@ -20,6 +22,7 @@
   background-color: #2A2C2F;
   opacity: 0.3;
   transition: opacity 200ms ease-in-out;
+  z-index: 1;
 }
 
 .cover:hover:before {
@@ -28,6 +31,6 @@
 
 @media screen and (max-width: 1279px) {
   .cover {
-    height: calc(0.625 * 100vw);
+    min-height: calc(0.625 * 100vw);
   }
 }
